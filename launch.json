@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "communist-youth-site",
+      "runtimeExecutable": "C:\\Users\\user\\AppData\\Local\\ms-playwright-go\\1.50.1\\node.exe",
+      "runtimeArgs": ["communist-youth-site/serve.js", "3456"],
+      "port": 3456
+    }
+  ]
+}
