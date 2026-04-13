@@ -137,7 +137,7 @@ a { text-decoration: none; }
 }
 .hero-parallax {
     position: absolute; inset: -10%;
-    background: url('images/hero-bg.jpg') center/cover no-repeat;
+    background: url('hero-bg.jpg') center/cover no-repeat;
     will-change: transform;
     z-index: 0;
 }
@@ -563,7 +563,7 @@ a { text-decoration: none; }
 
 /* ── Stats ── */
 .stats-section {
-    background: url('images/hero-bg.jpg') center/cover no-repeat fixed;
+    background: url('hero-bg.jpg') center/cover no-repeat fixed;
     position: relative; padding: 80px 0;
 }
 .stats-overlay {
